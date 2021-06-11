@@ -1,0 +1,39 @@
+#canvas{
+    position : relative ; 
+    left : 195px ; 
+    top : 0px ;  
+    height : 100%;
+}
+body{
+    background-color : black;
+}
+#RESET{
+    position : absolute;
+    top: 220px;
+    left: 30px;
+}
+
+#Algo-btn{
+    position: absolute;
+    top : 160px; 
+    left : 32px;
+    width : 120px ;     
+}
+.Maze{
+    position: absolute;
+    top: 50px;
+    left: 30px;
+}
+
+.info{
+    position : absolute ; 
+    top : 420px ; 
+    left : -1px ;  
+}
+
+
+
+#makeGrid{
+    position: absolute;
+    top : 260px;
+}
